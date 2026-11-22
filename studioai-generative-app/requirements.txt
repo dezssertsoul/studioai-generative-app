@@ -1,8 +1,0 @@
-streamlit
-streamlit-drawable-canvas
-diffusers
-transformers
-accelerate
-torch
-Pillow
-pyngrok
